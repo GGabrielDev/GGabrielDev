@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any Open Source project to improve my skills and portfolio.
 - 📫 How to reach me: You can email me to luisgabrielramosrobles@gmail.com or give me a call (Whatsapp too) to: (+58) 412-9412021
 
-### And now in Spanish~!
+### And now in Spanish~! / Ahora en Español~!
 - 👋 Hola! Soy Luis Gabriel Ramos Robles
 - 👀 Estoy interesado en programar, los videojuegos (mi pequeño hobby) y aprender mas sobre la informática.
 - 🌱 Actualmente estoy aprendiendo Material UI, Preact y HTM. El primero porque luce cool, y los otros dos porque tienen una reduccion significatica en el tamaño de sus paquetes y el tiempo de compilado, los cuales pueden ser significativos en casos donde el servidor tenga recursos limitados.
